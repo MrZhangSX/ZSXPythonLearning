@@ -1,0 +1,10 @@
+site_name: My Docs
+
+nav: 
+     - 主页: 'index.md'
+     - zsxNote:
+        - zsxNote/Python.md
+        - zsxNote/Mybatis.md
+
+theme:
+  name: material
